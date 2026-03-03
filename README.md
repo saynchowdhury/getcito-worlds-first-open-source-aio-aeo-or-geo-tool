@@ -53,9 +53,8 @@ Get up and running in less than 5 minutes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-monitor-tool.git
-cd ai-monitor-tool
-
+git clone https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool.git
+cd getcito-worlds-first-open-source-aio-aeo-or-geo-tool
 # Install dependencies
 npm install
 
